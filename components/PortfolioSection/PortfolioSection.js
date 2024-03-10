@@ -29,6 +29,7 @@ const Portfolios = [
   },
 ];
 
+// Notes
 const PortfolioSection = (props) => {
   return (
     <section
