@@ -5,7 +5,7 @@ export default class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          <meta property="og:title" content="NINA"></meta>
+          <meta property="og:title" content="Nina Rajkarnikar"></meta>
           <meta property="og:type" content="website"></meta>
           <meta
             property="og:image"
