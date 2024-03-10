@@ -7,7 +7,7 @@ const Portfolios = [
     Pimg: "/images/portfolio/Nina-4.jpg",
   },
   {
-    Pimg: "/images/portfolio/Nina-8.jpg",
+    Pimg: "/images/portfolio/Nina-new-8.jpg",
   },
   {
     Pimg: "/images/portfolio/Nina-5.jpg",
@@ -16,10 +16,10 @@ const Portfolios = [
     Pimg: "/images/portfolio/Nina-1.jpg",
   },
   {
-    Pimg: "/images/portfolio/Nina-10.jpg",
+    Pimg: "/images/portfolio/Nina-new-10.jpg",
   },
   {
-    Pimg: "/images/portfolio/Nina-7.jpg",
+    Pimg: "/images/portfolio/Nina-new-7.jpg",
   },
   {
     Pimg: "/images/portfolio/Nina-2.jpg",
